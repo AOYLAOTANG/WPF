@@ -1,0 +1,23 @@
+﻿<Window x:Class="_01.basic_of_xaml.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <Grid Name="Grid1">
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                <GradientStop Color="#FFE2632B" Offset="0" />
+                <GradientStop Color="#FFDBC23B" Offset="1" />
+                <GradientStop Color="#FF3991A1" Offset="0.47" />
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button Content="&lt;Button1&gt;" Grid.Row="0" Height="23" HorizontalAlignment="Left" Margin="110,59,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="btn_Click" />
+        <Button Content="Button2" Grid.Row="1" Height="23" HorizontalAlignment="Left" Margin="110,46,0,0" Name="button2" VerticalAlignment="Top" Width="75" />
+        <Button Content="Button3" Grid.Row="2" Height="23" HorizontalAlignment="Left" Margin="110,36,0,0" Name="button3" VerticalAlignment="Top" Width="75" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="9,12,0,0" Name="textBox1" VerticalAlignment="Top" Width="413" xml:space="preserve">There is a lot of space inside these quotation marks "     ".</TextBox>
+    </Grid>
+</Window>

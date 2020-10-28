@@ -1,0 +1,10 @@
+E:\1 program\2Graduate Courses\lab\WPF\02.create wpf by code\bin\Debug\02.create wpf by code.exe
+E:\1 program\2Graduate Courses\lab\WPF\02.create wpf by code\bin\Debug\02.create wpf by code.pdb
+E:\1 program\2Graduate Courses\lab\WPF\02.create wpf by code\obj\x86\Debug\MainWindow.baml
+E:\1 program\2Graduate Courses\lab\WPF\02.create wpf by code\obj\x86\Debug\MainWindow.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\02.create wpf by code\obj\x86\Debug\02.create wpf by code_MarkupCompile.cache
+E:\1 program\2Graduate Courses\lab\WPF\02.create wpf by code\obj\x86\Debug\02.create wpf by code.g.resources
+E:\1 program\2Graduate Courses\lab\WPF\02.create wpf by code\obj\x86\Debug\_02.create_wpf_by_code.Properties.Resources.resources
+E:\1 program\2Graduate Courses\lab\WPF\02.create wpf by code\obj\x86\Debug\02.create wpf by code.csproj.GenerateResource.Cache
+E:\1 program\2Graduate Courses\lab\WPF\02.create wpf by code\obj\x86\Debug\02.create wpf by code.exe
+E:\1 program\2Graduate Courses\lab\WPF\02.create wpf by code\obj\x86\Debug\02.create wpf by code.pdb

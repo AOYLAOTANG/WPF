@@ -1,0 +1,10 @@
+E:\1 program\2Graduate Courses\lab\WPF\03.create wpf by xaml\bin\Debug\03.create wpf by xaml.exe
+E:\1 program\2Graduate Courses\lab\WPF\03.create wpf by xaml\bin\Debug\03.create wpf by xaml.pdb
+E:\1 program\2Graduate Courses\lab\WPF\03.create wpf by xaml\obj\x86\Debug\MainWindow.baml
+E:\1 program\2Graduate Courses\lab\WPF\03.create wpf by xaml\obj\x86\Debug\MainWindow.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\03.create wpf by xaml\obj\x86\Debug\03.create wpf by xaml_MarkupCompile.cache
+E:\1 program\2Graduate Courses\lab\WPF\03.create wpf by xaml\obj\x86\Debug\03.create wpf by xaml.g.resources
+E:\1 program\2Graduate Courses\lab\WPF\03.create wpf by xaml\obj\x86\Debug\_03.create_wpf_by_xaml.Properties.Resources.resources
+E:\1 program\2Graduate Courses\lab\WPF\03.create wpf by xaml\obj\x86\Debug\03.create wpf by xaml.csproj.GenerateResource.Cache
+E:\1 program\2Graduate Courses\lab\WPF\03.create wpf by xaml\obj\x86\Debug\03.create wpf by xaml.exe
+E:\1 program\2Graduate Courses\lab\WPF\03.create wpf by xaml\obj\x86\Debug\03.create wpf by xaml.pdb
