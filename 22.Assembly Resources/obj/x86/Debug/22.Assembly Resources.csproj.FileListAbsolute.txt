@@ -1,0 +1,13 @@
+E:\1 program\2Graduate Courses\lab\WPF\22.Assembly Resources\bin\Debug\22.Assembly Resources.exe
+E:\1 program\2Graduate Courses\lab\WPF\22.Assembly Resources\bin\Debug\22.Assembly Resources.pdb
+E:\1 program\2Graduate Courses\lab\WPF\22.Assembly Resources\obj\x86\Debug\MainWindow.baml
+E:\1 program\2Graduate Courses\lab\WPF\22.Assembly Resources\obj\x86\Debug\MainWindow.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\22.Assembly Resources\obj\x86\Debug\App.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\22.Assembly Resources\obj\x86\Debug\22.Assembly Resources_MarkupCompile.cache
+E:\1 program\2Graduate Courses\lab\WPF\22.Assembly Resources\obj\x86\Debug\22.Assembly Resources.g.resources
+E:\1 program\2Graduate Courses\lab\WPF\22.Assembly Resources\obj\x86\Debug\_22.Assembly_Resources.Properties.Resources.resources
+E:\1 program\2Graduate Courses\lab\WPF\22.Assembly Resources\obj\x86\Debug\22.Assembly Resources.csproj.GenerateResource.Cache
+E:\1 program\2Graduate Courses\lab\WPF\22.Assembly Resources\obj\x86\Debug\22.Assembly Resources.exe
+E:\1 program\2Graduate Courses\lab\WPF\22.Assembly Resources\obj\x86\Debug\22.Assembly Resources.pdb
+E:\1 program\2Graduate Courses\lab\WPF\22.Assembly Resources\bin\Debug\Image\CUG彩色.png
+E:\1 program\2Graduate Courses\lab\WPF\22.Assembly Resources\obj\x86\Debug\22.Assembly Resources_Content.g.cs

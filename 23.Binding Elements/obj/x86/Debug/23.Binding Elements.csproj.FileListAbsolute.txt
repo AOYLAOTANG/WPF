@@ -1,0 +1,11 @@
+E:\1 program\2Graduate Courses\lab\WPF\23.Binding Elements\bin\Debug\23.Binding Elements.exe
+E:\1 program\2Graduate Courses\lab\WPF\23.Binding Elements\bin\Debug\23.Binding Elements.pdb
+E:\1 program\2Graduate Courses\lab\WPF\23.Binding Elements\obj\x86\Debug\MainWindow.baml
+E:\1 program\2Graduate Courses\lab\WPF\23.Binding Elements\obj\x86\Debug\MainWindow.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\23.Binding Elements\obj\x86\Debug\App.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\23.Binding Elements\obj\x86\Debug\23.Binding Elements_MarkupCompile.cache
+E:\1 program\2Graduate Courses\lab\WPF\23.Binding Elements\obj\x86\Debug\23.Binding Elements.g.resources
+E:\1 program\2Graduate Courses\lab\WPF\23.Binding Elements\obj\x86\Debug\_23.Binding_Elements.Properties.Resources.resources
+E:\1 program\2Graduate Courses\lab\WPF\23.Binding Elements\obj\x86\Debug\23.Binding Elements.csproj.GenerateResource.Cache
+E:\1 program\2Graduate Courses\lab\WPF\23.Binding Elements\obj\x86\Debug\23.Binding Elements.exe
+E:\1 program\2Graduate Courses\lab\WPF\23.Binding Elements\obj\x86\Debug\23.Binding Elements.pdb
