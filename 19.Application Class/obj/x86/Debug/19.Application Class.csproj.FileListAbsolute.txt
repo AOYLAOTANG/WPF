@@ -1,0 +1,12 @@
+E:\1 program\2Graduate Courses\lab\WPF\19.Application Class\bin\Debug\19.Application Class.exe
+E:\1 program\2Graduate Courses\lab\WPF\19.Application Class\bin\Debug\19.Application Class.pdb
+E:\1 program\2Graduate Courses\lab\WPF\19.Application Class\obj\x86\Debug\MainWindow.baml
+E:\1 program\2Graduate Courses\lab\WPF\19.Application Class\obj\x86\Debug\MainWindow.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\19.Application Class\obj\x86\Debug\App.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\19.Application Class\obj\x86\Debug\19.Application Class_MarkupCompile.cache
+E:\1 program\2Graduate Courses\lab\WPF\19.Application Class\obj\x86\Debug\19.Application Class.g.resources
+E:\1 program\2Graduate Courses\lab\WPF\19.Application Class\obj\x86\Debug\_19.Application_Class.Properties.Resources.resources
+E:\1 program\2Graduate Courses\lab\WPF\19.Application Class\obj\x86\Debug\19.Application Class.csproj.GenerateResource.Cache
+E:\1 program\2Graduate Courses\lab\WPF\19.Application Class\obj\x86\Debug\19.Application Class.exe
+E:\1 program\2Graduate Courses\lab\WPF\19.Application Class\obj\x86\Debug\19.Application Class.pdb
+E:\1 program\2Graduate Courses\lab\WPF\19.Application Class\obj\x86\Debug\App.baml

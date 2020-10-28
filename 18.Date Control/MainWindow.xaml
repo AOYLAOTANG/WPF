@@ -1,0 +1,13 @@
+﻿<Window x:Class="_18.Date_Control.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Calendar Height="170" HorizontalAlignment="Left" Margin="62,50,0,0" Name="calendar1" VerticalAlignment="Top" Width="180" 
+                  DisplayMode="Month" DisplayDateStart="2020-5-1" DisplayDateEnd="2020-5-31" FirstDayOfWeek="Monday" 
+                  SelectedDatesChanged="calendar1_SelectedDatesChanged" SelectionMode="MultipleRange" IsTodayHighlighted="True"/>
+        <Button Content="获取选择的多个日期" Margin="88,245,281,32" Name="button1" Click="button1_Click" />
+        <DatePicker Height="25" HorizontalAlignment="Left" Margin="299,50,0,0" Name="datePicker1" VerticalAlignment="Top" Width="115" 
+                    IsDropDownOpen="False" DateValidationError="datePicker1_DateValidationError" />
+    </Grid>
+</Window>
