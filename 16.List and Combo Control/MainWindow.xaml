@@ -1,0 +1,32 @@
+﻿<Window x:Class="_16.List_and_Combo_Control.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <ListBox Height="Auto" Margin="5" Name="listBox1" SelectionChanged="listBox1_SelectionChanged">
+            <!--<StackPanel>
+                <Button Height="20" Width="30"></Button>
+                <ListBoxItem>文本和按钮</ListBoxItem>
+            </StackPanel>
+            <ListBoxItem>
+                <Image Source="file:///E:/1%20program/2Graduate%20Courses/lab/WPF/16.List%20and%20Combo%20Control/CUG.png" Stretch="None"></Image>
+            </ListBoxItem>
+            <ListBoxItem>纯文本</ListBoxItem>-->
+            <CheckBox Margin="5">选项1</CheckBox>
+            <CheckBox Margin="5">选项2</CheckBox>
+            <CheckBox Margin="5">选项3</CheckBox>
+        </ListBox>
+        
+        <StackPanel Grid.Row="1" Margin="5">
+            <TextBlock>当前的选择：</TextBlock>
+            <TextBlock Name="textSelection" TextWrapping="Wrap"></TextBlock>
+            <Button Margin="5" Content="检测所有项" Click="Button_Click"></Button>
+        </StackPanel>
+        
+
+    </Grid>
+</Window>

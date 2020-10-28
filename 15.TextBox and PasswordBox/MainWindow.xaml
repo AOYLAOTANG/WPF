@@ -1,0 +1,20 @@
+﻿<Window x:Class="_15.TextBox_and_PasswordBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBox SpellCheck.IsEnabled="True" Margin="5" Name="textBox1" MaxLength="500" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible" FontSize="50" Text="" SelectionChanged="textBox1_SelectionChanged" />
+        <ScrollViewer Grid.Row="1" Margin="5" Name="scrollViewer">
+            <StackPanel Name="stackpanel">
+                <TextBlock Height="23"  Text="当前选中文本：" />
+                <TextBlock Grid.Row="1" Height="23" Name="txtSelection"  />
+            </StackPanel>
+        </ScrollViewer>
+        <PasswordBox Grid.Row="2" PasswordChar="*" Height="23" Margin="5" Name="passwordBox1" Width="120"/>
+    </Grid>
+</Window>

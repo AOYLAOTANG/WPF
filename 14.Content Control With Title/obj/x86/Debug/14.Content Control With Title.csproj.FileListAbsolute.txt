@@ -1,0 +1,11 @@
+E:\1 program\2Graduate Courses\lab\WPF\14.Content Control With Title\bin\Debug\14.Content Control With Title.exe
+E:\1 program\2Graduate Courses\lab\WPF\14.Content Control With Title\bin\Debug\14.Content Control With Title.pdb
+E:\1 program\2Graduate Courses\lab\WPF\14.Content Control With Title\obj\x86\Debug\MainWindow.baml
+E:\1 program\2Graduate Courses\lab\WPF\14.Content Control With Title\obj\x86\Debug\MainWindow.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\14.Content Control With Title\obj\x86\Debug\App.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\14.Content Control With Title\obj\x86\Debug\14.Content Control With Title_MarkupCompile.cache
+E:\1 program\2Graduate Courses\lab\WPF\14.Content Control With Title\obj\x86\Debug\14.Content Control With Title.g.resources
+E:\1 program\2Graduate Courses\lab\WPF\14.Content Control With Title\obj\x86\Debug\_14.Content_Control_With_Title.Properties.Resources.resources
+E:\1 program\2Graduate Courses\lab\WPF\14.Content Control With Title\obj\x86\Debug\14.Content Control With Title.csproj.GenerateResource.Cache
+E:\1 program\2Graduate Courses\lab\WPF\14.Content Control With Title\obj\x86\Debug\14.Content Control With Title.exe
+E:\1 program\2Graduate Courses\lab\WPF\14.Content Control With Title\obj\x86\Debug\14.Content Control With Title.pdb
