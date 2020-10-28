@@ -1,0 +1,15 @@
+E:\1 program\2Graduate Courses\lab\WPF\20.Applicatin Class II\bin\Debug\20.Applicatin Class II.exe
+E:\1 program\2Graduate Courses\lab\WPF\20.Applicatin Class II\bin\Debug\20.Applicatin Class II.pdb
+E:\1 program\2Graduate Courses\lab\WPF\20.Applicatin Class II\obj\x86\Debug\MainWindow.baml
+E:\1 program\2Graduate Courses\lab\WPF\20.Applicatin Class II\obj\x86\Debug\MainWindow.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\20.Applicatin Class II\obj\x86\Debug\App.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\20.Applicatin Class II\obj\x86\Debug\20.Applicatin Class II_MarkupCompile.cache
+E:\1 program\2Graduate Courses\lab\WPF\20.Applicatin Class II\obj\x86\Debug\20.Applicatin Class II.g.resources
+E:\1 program\2Graduate Courses\lab\WPF\20.Applicatin Class II\obj\x86\Debug\_20.Applicatin_Class_II.Properties.Resources.resources
+E:\1 program\2Graduate Courses\lab\WPF\20.Applicatin Class II\obj\x86\Debug\20.Applicatin Class II.csproj.GenerateResource.Cache
+E:\1 program\2Graduate Courses\lab\WPF\20.Applicatin Class II\obj\x86\Debug\20.Applicatin Class II.exe
+E:\1 program\2Graduate Courses\lab\WPF\20.Applicatin Class II\obj\x86\Debug\20.Applicatin Class II.pdb
+E:\1 program\2Graduate Courses\lab\WPF\20.Applicatin Class II\obj\x86\Debug\Window1.baml
+E:\1 program\2Graduate Courses\lab\WPF\20.Applicatin Class II\obj\x86\Debug\Window1.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\20.Applicatin Class II\obj\x86\Debug\Document.baml
+E:\1 program\2Graduate Courses\lab\WPF\20.Applicatin Class II\obj\x86\Debug\Document.g.cs

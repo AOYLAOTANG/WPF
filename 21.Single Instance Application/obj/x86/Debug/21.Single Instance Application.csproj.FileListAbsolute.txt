@@ -1,0 +1,10 @@
+E:\1 program\2Graduate Courses\lab\WPF\21.Single Instance Application\bin\Debug\21.Single Instance Application.exe
+E:\1 program\2Graduate Courses\lab\WPF\21.Single Instance Application\bin\Debug\21.Single Instance Application.pdb
+E:\1 program\2Graduate Courses\lab\WPF\21.Single Instance Application\obj\x86\Debug\MainWindow.baml
+E:\1 program\2Graduate Courses\lab\WPF\21.Single Instance Application\obj\x86\Debug\MainWindow.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\21.Single Instance Application\obj\x86\Debug\21.Single Instance Application_MarkupCompile.cache
+E:\1 program\2Graduate Courses\lab\WPF\21.Single Instance Application\obj\x86\Debug\21.Single Instance Application.g.resources
+E:\1 program\2Graduate Courses\lab\WPF\21.Single Instance Application\obj\x86\Debug\_21.Single_Instance_Application.Properties.Resources.resources
+E:\1 program\2Graduate Courses\lab\WPF\21.Single Instance Application\obj\x86\Debug\21.Single Instance Application.csproj.GenerateResource.Cache
+E:\1 program\2Graduate Courses\lab\WPF\21.Single Instance Application\obj\x86\Debug\21.Single Instance Application.exe
+E:\1 program\2Graduate Courses\lab\WPF\21.Single Instance Application\obj\x86\Debug\21.Single Instance Application.pdb
