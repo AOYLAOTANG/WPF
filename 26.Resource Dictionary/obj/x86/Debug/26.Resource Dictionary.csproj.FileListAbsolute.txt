@@ -1,0 +1,16 @@
+E:\1 program\2Graduate Courses\lab\WPF\26.Resource Dictionary\bin\Debug\26.Resource Dictionary.exe
+E:\1 program\2Graduate Courses\lab\WPF\26.Resource Dictionary\bin\Debug\26.Resource Dictionary.pdb
+E:\1 program\2Graduate Courses\lab\WPF\26.Resource Dictionary\bin\Debug\26.ResourceLibrary.exe
+E:\1 program\2Graduate Courses\lab\WPF\26.Resource Dictionary\bin\Debug\26.ResourceLibrary.pdb
+E:\1 program\2Graduate Courses\lab\WPF\26.Resource Dictionary\obj\x86\Debug\26.Resource Dictionary.csprojResolveAssemblyReference.cache
+E:\1 program\2Graduate Courses\lab\WPF\26.Resource Dictionary\obj\x86\Debug\Dictionary1.baml
+E:\1 program\2Graduate Courses\lab\WPF\26.Resource Dictionary\obj\x86\Debug\MainWindow.baml
+E:\1 program\2Graduate Courses\lab\WPF\26.Resource Dictionary\obj\x86\Debug\App.baml
+E:\1 program\2Graduate Courses\lab\WPF\26.Resource Dictionary\obj\x86\Debug\MainWindow.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\26.Resource Dictionary\obj\x86\Debug\App.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\26.Resource Dictionary\obj\x86\Debug\26.Resource Dictionary_MarkupCompile.cache
+E:\1 program\2Graduate Courses\lab\WPF\26.Resource Dictionary\obj\x86\Debug\26.Resource Dictionary.g.resources
+E:\1 program\2Graduate Courses\lab\WPF\26.Resource Dictionary\obj\x86\Debug\_26.Resource_Dictionary.Properties.Resources.resources
+E:\1 program\2Graduate Courses\lab\WPF\26.Resource Dictionary\obj\x86\Debug\26.Resource Dictionary.csproj.GenerateResource.Cache
+E:\1 program\2Graduate Courses\lab\WPF\26.Resource Dictionary\obj\x86\Debug\26.Resource Dictionary.exe
+E:\1 program\2Graduate Courses\lab\WPF\26.Resource Dictionary\obj\x86\Debug\26.Resource Dictionary.pdb

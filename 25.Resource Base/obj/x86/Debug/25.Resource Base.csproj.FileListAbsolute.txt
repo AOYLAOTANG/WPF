@@ -1,0 +1,11 @@
+E:\1 program\2Graduate Courses\lab\WPF\25.Resource Base\bin\Debug\25.Resource Base.exe
+E:\1 program\2Graduate Courses\lab\WPF\25.Resource Base\bin\Debug\25.Resource Base.pdb
+E:\1 program\2Graduate Courses\lab\WPF\25.Resource Base\obj\x86\Debug\MainWindow.baml
+E:\1 program\2Graduate Courses\lab\WPF\25.Resource Base\obj\x86\Debug\MainWindow.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\25.Resource Base\obj\x86\Debug\App.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\25.Resource Base\obj\x86\Debug\25.Resource Base_MarkupCompile.cache
+E:\1 program\2Graduate Courses\lab\WPF\25.Resource Base\obj\x86\Debug\25.Resource Base.g.resources
+E:\1 program\2Graduate Courses\lab\WPF\25.Resource Base\obj\x86\Debug\_25.Resource_Base.Properties.Resources.resources
+E:\1 program\2Graduate Courses\lab\WPF\25.Resource Base\obj\x86\Debug\25.Resource Base.csproj.GenerateResource.Cache
+E:\1 program\2Graduate Courses\lab\WPF\25.Resource Base\obj\x86\Debug\25.Resource Base.exe
+E:\1 program\2Graduate Courses\lab\WPF\25.Resource Base\obj\x86\Debug\25.Resource Base.pdb

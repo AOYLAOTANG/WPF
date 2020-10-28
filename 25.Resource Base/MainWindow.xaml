@@ -1,0 +1,28 @@
+﻿<Window x:Class="_25.Resource_Base.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    
+    <StackPanel Name="stackPanel1">
+        
+        <StackPanel.Resources>
+            <ImageBrush x:Key="TileBrush" TileMode="Tile" ViewportUnits="Absolute" Viewport="0 0 32 32" 
+                    ImageSource="file:///E:/1%20program/2Graduate%20Courses/lab/WPF/25.Resource%20Base/Images/CUG.png"></ImageBrush>
+        </StackPanel.Resources>
+        
+        <Button Margin="5" Content="使用静态资源" Name="button1" FontSize="20" Padding="5"
+                Background='{StaticResource ResourceKey="TileBrush"}'/>
+        <Button Margin="5" Content="使用动态资源" Name="button2" FontSize="20" Padding="5"
+                Background='{DynamicResource ResourceKey="TileBrush"}'>
+            <!--<Button.Resources>
+                <ImageBrush x:Key="TileBrush" TileMode="Tile" ViewportUnits="Absolute" Viewport="0 0 10 10" 
+                    ImageSource="file:///E:/1%20program/2Graduate%20Courses/lab/WPF/25.Resource%20Base/Images/CUG.png"></ImageBrush>
+            </Button.Resources>
+            <Button.Background>
+                <StaticResource ResourceKey="TileBrush"></StaticResource>
+            </Button.Background>-->
+        </Button>
+        <Button Margin="5" Content="改变背景" Name="button3" FontSize="20" Padding="5" Click="button3_Click" Foreground="Red"
+                Background="{DynamicResource ResourceKey={x:Static SystemColors.WindowTextBrushKey}}"/>
+    </StackPanel>
+</Window>
