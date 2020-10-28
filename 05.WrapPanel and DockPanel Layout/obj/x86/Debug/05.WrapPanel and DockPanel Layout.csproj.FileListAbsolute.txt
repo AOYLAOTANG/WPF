@@ -1,0 +1,13 @@
+E:\1 program\2Graduate Courses\lab\WPF\05.WrapPanel and DockPanel Layout\bin\Debug\05.WrapPanel and DockPanel Layout.exe
+E:\1 program\2Graduate Courses\lab\WPF\05.WrapPanel and DockPanel Layout\bin\Debug\05.WrapPanel and DockPanel Layout.pdb
+E:\1 program\2Graduate Courses\lab\WPF\05.WrapPanel and DockPanel Layout\obj\x86\Debug\BasicDialogBox.baml
+E:\1 program\2Graduate Courses\lab\WPF\05.WrapPanel and DockPanel Layout\obj\x86\Debug\MainWindow.baml
+E:\1 program\2Graduate Courses\lab\WPF\05.WrapPanel and DockPanel Layout\obj\x86\Debug\BasicDialogBox.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\05.WrapPanel and DockPanel Layout\obj\x86\Debug\MainWindow.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\05.WrapPanel and DockPanel Layout\obj\x86\Debug\App.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\05.WrapPanel and DockPanel Layout\obj\x86\Debug\05.WrapPanel and DockPanel Layout_MarkupCompile.cache
+E:\1 program\2Graduate Courses\lab\WPF\05.WrapPanel and DockPanel Layout\obj\x86\Debug\05.WrapPanel and DockPanel Layout.g.resources
+E:\1 program\2Graduate Courses\lab\WPF\05.WrapPanel and DockPanel Layout\obj\x86\Debug\_05.WrapPanel_and_DockPanel_Layout.Properties.Resources.resources
+E:\1 program\2Graduate Courses\lab\WPF\05.WrapPanel and DockPanel Layout\obj\x86\Debug\05.WrapPanel and DockPanel Layout.csproj.GenerateResource.Cache
+E:\1 program\2Graduate Courses\lab\WPF\05.WrapPanel and DockPanel Layout\obj\x86\Debug\05.WrapPanel and DockPanel Layout.exe
+E:\1 program\2Graduate Courses\lab\WPF\05.WrapPanel and DockPanel Layout\obj\x86\Debug\05.WrapPanel and DockPanel Layout.pdb

@@ -1,0 +1,8 @@
+﻿<Application x:Class="_05.WrapPanel_and_DockPanel_Layout.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="BasicDialogBox.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

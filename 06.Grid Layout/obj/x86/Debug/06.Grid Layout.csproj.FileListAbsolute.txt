@@ -1,0 +1,11 @@
+E:\1 program\2Graduate Courses\lab\WPF\06.Grid Layout\bin\Debug\06.Grid Layout.exe
+E:\1 program\2Graduate Courses\lab\WPF\06.Grid Layout\bin\Debug\06.Grid Layout.pdb
+E:\1 program\2Graduate Courses\lab\WPF\06.Grid Layout\obj\x86\Debug\MainWindow.baml
+E:\1 program\2Graduate Courses\lab\WPF\06.Grid Layout\obj\x86\Debug\MainWindow.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\06.Grid Layout\obj\x86\Debug\App.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\06.Grid Layout\obj\x86\Debug\06.Grid Layout_MarkupCompile.cache
+E:\1 program\2Graduate Courses\lab\WPF\06.Grid Layout\obj\x86\Debug\06.Grid Layout.g.resources
+E:\1 program\2Graduate Courses\lab\WPF\06.Grid Layout\obj\x86\Debug\_06.Grid_Layout.Properties.Resources.resources
+E:\1 program\2Graduate Courses\lab\WPF\06.Grid Layout\obj\x86\Debug\06.Grid Layout.csproj.GenerateResource.Cache
+E:\1 program\2Graduate Courses\lab\WPF\06.Grid Layout\obj\x86\Debug\06.Grid Layout.exe
+E:\1 program\2Graduate Courses\lab\WPF\06.Grid Layout\obj\x86\Debug\06.Grid Layout.pdb

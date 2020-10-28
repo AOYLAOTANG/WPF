@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.StackPanel  Layout", "04.StackPanel  Layout.csproj", "{E783BB4B-623B-40D5-9EE9-C01DFD0BB29E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E783BB4B-623B-40D5-9EE9-C01DFD0BB29E}.Debug|x86.ActiveCfg = Debug|x86
+		{E783BB4B-623B-40D5-9EE9-C01DFD0BB29E}.Debug|x86.Build.0 = Debug|x86
+		{E783BB4B-623B-40D5-9EE9-C01DFD0BB29E}.Release|x86.ActiveCfg = Release|x86
+		{E783BB4B-623B-40D5-9EE9-C01DFD0BB29E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
