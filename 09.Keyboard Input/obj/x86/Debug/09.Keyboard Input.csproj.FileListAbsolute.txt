@@ -1,0 +1,11 @@
+E:\1 program\2Graduate Courses\lab\WPF\09.Keyboard Input\bin\Debug\09.Keyboard Input.exe
+E:\1 program\2Graduate Courses\lab\WPF\09.Keyboard Input\bin\Debug\09.Keyboard Input.pdb
+E:\1 program\2Graduate Courses\lab\WPF\09.Keyboard Input\obj\x86\Debug\MainWindow.baml
+E:\1 program\2Graduate Courses\lab\WPF\09.Keyboard Input\obj\x86\Debug\MainWindow.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\09.Keyboard Input\obj\x86\Debug\App.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\09.Keyboard Input\obj\x86\Debug\09.Keyboard Input_MarkupCompile.cache
+E:\1 program\2Graduate Courses\lab\WPF\09.Keyboard Input\obj\x86\Debug\09.Keyboard Input.g.resources
+E:\1 program\2Graduate Courses\lab\WPF\09.Keyboard Input\obj\x86\Debug\_09.Keyboard_Input.Properties.Resources.resources
+E:\1 program\2Graduate Courses\lab\WPF\09.Keyboard Input\obj\x86\Debug\09.Keyboard Input.csproj.GenerateResource.Cache
+E:\1 program\2Graduate Courses\lab\WPF\09.Keyboard Input\obj\x86\Debug\09.Keyboard Input.exe
+E:\1 program\2Graduate Courses\lab\WPF\09.Keyboard Input\obj\x86\Debug\09.Keyboard Input.pdb

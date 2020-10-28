@@ -1,0 +1,27 @@
+﻿<Window x:Class="_08.Routing_event.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525"
+        MouseUp="SomethingClicked">
+    <Grid MouseUp="SomethingClicked">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Label MouseUp="SomethingClicked" Margin="5" BorderThickness="2">
+            <StackPanel MouseUp="SomethingClicked">
+                <TextBox MouseUp="SomethingClicked" Margin="5">图像</TextBox>
+                <Image MouseUp="SomethingClicked" Source="E:/1 program/2Graduate Courses/lab/WPF/08.Routing event/Images/CUG.png" Stretch="None" Margin="5"></Image>
+                <TextBox MouseUp="SomethingClicked" Margin="5">图像</TextBox>
+            </StackPanel>
+        </Label>
+
+
+        <ListBox Margin="5" Name="ListMessages" Grid.Row="1"></ListBox>
+        <CheckBox Margin="5" Name="CheckHandle" Grid.Row="2">事件处理</CheckBox>
+        <Button Click="cmdClear_Click" Margin="5" Grid.Row="3" HorizontalAlignment="Right" >清除</Button>
+    </Grid>
+</Window>

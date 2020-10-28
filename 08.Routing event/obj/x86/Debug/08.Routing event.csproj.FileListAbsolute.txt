@@ -1,0 +1,11 @@
+E:\1 program\2Graduate Courses\lab\WPF\08.Routing event\obj\x86\Debug\MainWindow.baml
+E:\1 program\2Graduate Courses\lab\WPF\08.Routing event\obj\x86\Debug\MainWindow.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\08.Routing event\obj\x86\Debug\App.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\08.Routing event\obj\x86\Debug\08.Routing event_MarkupCompile.cache
+E:\1 program\2Graduate Courses\lab\WPF\08.Routing event\obj\x86\Debug\08.Routing event.g.resources
+E:\1 program\2Graduate Courses\lab\WPF\08.Routing event\obj\x86\Debug\_08.Routing_event.Properties.Resources.resources
+E:\1 program\2Graduate Courses\lab\WPF\08.Routing event\obj\x86\Debug\08.Routing event.csproj.GenerateResource.Cache
+E:\1 program\2Graduate Courses\lab\WPF\08.Routing event\bin\Debug\08.Routing event.exe
+E:\1 program\2Graduate Courses\lab\WPF\08.Routing event\bin\Debug\08.Routing event.pdb
+E:\1 program\2Graduate Courses\lab\WPF\08.Routing event\obj\x86\Debug\08.Routing event.exe
+E:\1 program\2Graduate Courses\lab\WPF\08.Routing event\obj\x86\Debug\08.Routing event.pdb

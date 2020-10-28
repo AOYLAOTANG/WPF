@@ -1,0 +1,11 @@
+E:\1 program\2Graduate Courses\lab\WPF\10.Mouse Input\bin\Debug\10.Mouse Input.exe
+E:\1 program\2Graduate Courses\lab\WPF\10.Mouse Input\bin\Debug\10.Mouse Input.pdb
+E:\1 program\2Graduate Courses\lab\WPF\10.Mouse Input\obj\x86\Debug\MainWindow.baml
+E:\1 program\2Graduate Courses\lab\WPF\10.Mouse Input\obj\x86\Debug\MainWindow.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\10.Mouse Input\obj\x86\Debug\App.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\10.Mouse Input\obj\x86\Debug\10.Mouse Input_MarkupCompile.cache
+E:\1 program\2Graduate Courses\lab\WPF\10.Mouse Input\obj\x86\Debug\10.Mouse Input.g.resources
+E:\1 program\2Graduate Courses\lab\WPF\10.Mouse Input\obj\x86\Debug\_10.Mouse_Input.Properties.Resources.resources
+E:\1 program\2Graduate Courses\lab\WPF\10.Mouse Input\obj\x86\Debug\10.Mouse Input.csproj.GenerateResource.Cache
+E:\1 program\2Graduate Courses\lab\WPF\10.Mouse Input\obj\x86\Debug\10.Mouse Input.exe
+E:\1 program\2Graduate Courses\lab\WPF\10.Mouse Input\obj\x86\Debug\10.Mouse Input.pdb
