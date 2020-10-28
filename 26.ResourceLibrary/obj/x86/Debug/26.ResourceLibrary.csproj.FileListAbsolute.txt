@@ -1,0 +1,15 @@
+E:\1 program\2Graduate Courses\lab\WPF\26.ResourceLibrary\bin\Debug\26.ResourceLibrary.exe
+E:\1 program\2Graduate Courses\lab\WPF\26.ResourceLibrary\bin\Debug\26.ResourceLibrary.pdb
+E:\1 program\2Graduate Courses\lab\WPF\26.ResourceLibrary\obj\x86\Debug\DictionaryLibrary.baml
+E:\1 program\2Graduate Courses\lab\WPF\26.ResourceLibrary\obj\x86\Debug\MainWindow.baml
+E:\1 program\2Graduate Courses\lab\WPF\26.ResourceLibrary\obj\x86\Debug\MainWindow.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\26.ResourceLibrary\obj\x86\Debug\App.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\26.ResourceLibrary\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\26.ResourceLibrary\obj\x86\Debug\26.ResourceLibrary_MarkupCompile.cache
+E:\1 program\2Graduate Courses\lab\WPF\26.ResourceLibrary\obj\x86\Debug\26.ResourceLibrary_MarkupCompile.lref
+E:\1 program\2Graduate Courses\lab\WPF\26.ResourceLibrary\obj\x86\Debug\Them\generic.baml
+E:\1 program\2Graduate Courses\lab\WPF\26.ResourceLibrary\obj\x86\Debug\26.ResourceLibrary.g.resources
+E:\1 program\2Graduate Courses\lab\WPF\26.ResourceLibrary\obj\x86\Debug\_26.ResourceLibrary.Properties.Resources.resources
+E:\1 program\2Graduate Courses\lab\WPF\26.ResourceLibrary\obj\x86\Debug\26.ResourceLibrary.csproj.GenerateResource.Cache
+E:\1 program\2Graduate Courses\lab\WPF\26.ResourceLibrary\obj\x86\Debug\26.ResourceLibrary.exe
+E:\1 program\2Graduate Courses\lab\WPF\26.ResourceLibrary\obj\x86\Debug\26.ResourceLibrary.pdb

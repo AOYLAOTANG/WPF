@@ -1,0 +1,13 @@
+E:\1 program\2Graduate Courses\lab\WPF\27.Style Base\obj\x86\Debug\App.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\27.Style Base\obj\x86\Debug\27.Style Base_MarkupCompile.cache
+E:\1 program\2Graduate Courses\lab\WPF\27.Style Base\bin\Debug\27.Style Base.exe
+E:\1 program\2Graduate Courses\lab\WPF\27.Style Base\bin\Debug\27.Style Base.pdb
+E:\1 program\2Graduate Courses\lab\WPF\27.Style Base\obj\x86\Debug\MainWindow.baml
+E:\1 program\2Graduate Courses\lab\WPF\27.Style Base\obj\x86\Debug\MainWindow.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\27.Style Base\obj\x86\Debug\27.Style Base.g.resources
+E:\1 program\2Graduate Courses\lab\WPF\27.Style Base\obj\x86\Debug\_27.Style_Base.Properties.Resources.resources
+E:\1 program\2Graduate Courses\lab\WPF\27.Style Base\obj\x86\Debug\27.Style Base.csproj.GenerateResource.Cache
+E:\1 program\2Graduate Courses\lab\WPF\27.Style Base\obj\x86\Debug\27.Style Base.exe
+E:\1 program\2Graduate Courses\lab\WPF\27.Style Base\obj\x86\Debug\27.Style Base.pdb
+E:\1 program\2Graduate Courses\lab\WPF\27.Style Base\obj\x86\Debug\EventSetter.baml
+E:\1 program\2Graduate Courses\lab\WPF\27.Style Base\obj\x86\Debug\EventSetter.g.cs
