@@ -1,0 +1,11 @@
+E:\1 program\2Graduate Courses\lab\WPF\13.ScrollViewer Control\bin\Debug\13.ScrollViewer Control.exe
+E:\1 program\2Graduate Courses\lab\WPF\13.ScrollViewer Control\bin\Debug\13.ScrollViewer Control.pdb
+E:\1 program\2Graduate Courses\lab\WPF\13.ScrollViewer Control\obj\x86\Debug\MainWindow.baml
+E:\1 program\2Graduate Courses\lab\WPF\13.ScrollViewer Control\obj\x86\Debug\MainWindow.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\13.ScrollViewer Control\obj\x86\Debug\App.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\13.ScrollViewer Control\obj\x86\Debug\13.ScrollViewer Control_MarkupCompile.cache
+E:\1 program\2Graduate Courses\lab\WPF\13.ScrollViewer Control\obj\x86\Debug\13.ScrollViewer Control.g.resources
+E:\1 program\2Graduate Courses\lab\WPF\13.ScrollViewer Control\obj\x86\Debug\_13.ScrollViewer_Control.Properties.Resources.resources
+E:\1 program\2Graduate Courses\lab\WPF\13.ScrollViewer Control\obj\x86\Debug\13.ScrollViewer Control.csproj.GenerateResource.Cache
+E:\1 program\2Graduate Courses\lab\WPF\13.ScrollViewer Control\obj\x86\Debug\13.ScrollViewer Control.exe
+E:\1 program\2Graduate Courses\lab\WPF\13.ScrollViewer Control\obj\x86\Debug\13.ScrollViewer Control.pdb

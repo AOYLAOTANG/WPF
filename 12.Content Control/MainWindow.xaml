@@ -1,0 +1,37 @@
+﻿<Window x:Class="_12.Content_Control.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="500" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="171*" />
+            <ColumnDefinition Width="332*" />
+        </Grid.ColumnDefinitions>
+        <StackPanel Name="stackPanel1" Grid.ColumnSpan="2">
+            <Button IsCancel="True" IsDefault="True" Content="Button" Height="23" Name="button1" Margin="5" Click="button1_Click" />
+            <Button Height="100" Name="button2" Margin="5">
+                <Button.ToolTip>
+                    <StackPanel>
+                        <TextBlock>地大</TextBlock>
+                        <Image Source="/12.Content%20Control;component/CUG.png"></Image>
+                    </StackPanel>
+                </Button.ToolTip>
+                <Image Source="file:///E:/1%20program/2Graduate%20Courses/lab/WPF/12.Content%20Control/CUG.png"></Image>
+            </Button>
+            <Button HorizontalContentAlignment="Center" Height="Auto" Name="button3" Margin="5">
+                <StackPanel>
+                    <TextBlock HorizontalAlignment="Center">图片和文本</TextBlock>
+                    <Image Source="file:///E:/1%20program/2Graduate%20Courses/lab/WPF/12.Content%20Control/CUG.png" Stretch="None"></Image>
+                    <TextBlock HorizontalAlignment="Center">容器存放进按钮</TextBlock>
+                </StackPanel>
+            </Button>
+            <Label Height="28" Name="label1" Margin="5" Target="{Binding ElementName=textBox1}">快捷键 _A</Label>
+            <TextBox Height="23" Name="textBox1" Margin="5"/>
+            <CheckBox Content="复选框1" Height="16" Name="checkBox1" IsChecked="{x:Null}" IsThreeState="True"/>
+            <CheckBox Content="复选框2" Height="16" Name="checkBox2" IsChecked="{x:Null}" IsThreeState="True"/>
+            <RadioButton Content="单选框1" Height="16" Name="radioButton1" IsChecked="True"/>
+            <RadioButton Content="单选框2" Height="16" Name="radioButton2" />
+            <RadioButton Content="单选框3" Height="16" Name="radioButton3" />
+        </StackPanel>
+    </Grid>
+</Window>

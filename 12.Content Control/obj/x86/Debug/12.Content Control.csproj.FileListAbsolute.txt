@@ -1,0 +1,11 @@
+E:\1 program\2Graduate Courses\lab\WPF\12.Content Control\bin\Debug\12.Content Control.exe
+E:\1 program\2Graduate Courses\lab\WPF\12.Content Control\bin\Debug\12.Content Control.pdb
+E:\1 program\2Graduate Courses\lab\WPF\12.Content Control\obj\x86\Debug\MainWindow.baml
+E:\1 program\2Graduate Courses\lab\WPF\12.Content Control\obj\x86\Debug\MainWindow.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\12.Content Control\obj\x86\Debug\App.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\12.Content Control\obj\x86\Debug\12.Content Control_MarkupCompile.cache
+E:\1 program\2Graduate Courses\lab\WPF\12.Content Control\obj\x86\Debug\12.Content Control.g.resources
+E:\1 program\2Graduate Courses\lab\WPF\12.Content Control\obj\x86\Debug\_12.Content_Control.Properties.Resources.resources
+E:\1 program\2Graduate Courses\lab\WPF\12.Content Control\obj\x86\Debug\12.Content Control.csproj.GenerateResource.Cache
+E:\1 program\2Graduate Courses\lab\WPF\12.Content Control\obj\x86\Debug\12.Content Control.exe
+E:\1 program\2Graduate Courses\lab\WPF\12.Content Control\obj\x86\Debug\12.Content Control.pdb
