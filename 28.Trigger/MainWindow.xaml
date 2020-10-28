@@ -1,0 +1,56 @@
+﻿<Window x:Class="_28.Trigger.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <Style x:Key="style1">
+            <Style.Setters>
+                <Setter Property="Control.FontFamily" Value="Times New Roman"></Setter>
+                <Setter Property="Control.FontSize" Value="32"></Setter>
+            </Style.Setters>
+            <Style.Triggers>
+                <EventTrigger RoutedEvent="Mouse.MouseEnter">
+                    <EventTrigger.Actions>
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation Duration="0:0:1" Storyboard.TargetProperty="FontSize" To="80"></DoubleAnimation>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger.Actions>
+                </EventTrigger>
+
+                <EventTrigger RoutedEvent="Mouse.MouseLeave">
+                    <EventTrigger.Actions>
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation Duration="0:0:1" Storyboard.TargetProperty="FontSize"></DoubleAnimation>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger.Actions>
+                </EventTrigger>
+            </Style.Triggers>
+            
+            <!--<Style.Triggers>
+                <Trigger Property="Control.IsFocused" Value="True">
+                    <Setter Property="Control.Foreground" Value="Yellow"></Setter>
+                </Trigger>
+                <MultiTrigger>
+                    <MultiTrigger.Conditions>
+                        <Condition Property="Control.IsFocused" Value="true"></Condition>
+                        <Condition Property="Control.IsMouseOver" Value="true"></Condition>
+                    </MultiTrigger.Conditions>
+                    <MultiTrigger.Setters>
+                        <Setter Property="Control.Foreground" Value="Red"></Setter>
+                    </MultiTrigger.Setters>
+                </MultiTrigger>
+            </Style.Triggers>-->
+        </Style>
+    </Window.Resources>
+    
+    <StackPanel Margin="5">
+        <Button Margin="5" Content="Button1" Height="Auto" Name="button1" Width="Auto" 
+                Style="{StaticResource ResourceKey=style1}"/>
+        <Button Margin="5" Content="Button2" Height="Auto" Name="button2" Width="Auto" 
+                />
+    </StackPanel>
+</Window>

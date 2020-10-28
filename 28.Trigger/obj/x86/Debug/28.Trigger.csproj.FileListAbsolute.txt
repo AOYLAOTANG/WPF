@@ -1,0 +1,11 @@
+E:\1 program\2Graduate Courses\lab\WPF\28.Trigger\bin\Debug\28.Trigger.exe
+E:\1 program\2Graduate Courses\lab\WPF\28.Trigger\bin\Debug\28.Trigger.pdb
+E:\1 program\2Graduate Courses\lab\WPF\28.Trigger\obj\x86\Debug\MainWindow.baml
+E:\1 program\2Graduate Courses\lab\WPF\28.Trigger\obj\x86\Debug\MainWindow.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\28.Trigger\obj\x86\Debug\App.g.cs
+E:\1 program\2Graduate Courses\lab\WPF\28.Trigger\obj\x86\Debug\28.Trigger_MarkupCompile.cache
+E:\1 program\2Graduate Courses\lab\WPF\28.Trigger\obj\x86\Debug\28.Trigger.g.resources
+E:\1 program\2Graduate Courses\lab\WPF\28.Trigger\obj\x86\Debug\_28.Trigger.Properties.Resources.resources
+E:\1 program\2Graduate Courses\lab\WPF\28.Trigger\obj\x86\Debug\28.Trigger.csproj.GenerateResource.Cache
+E:\1 program\2Graduate Courses\lab\WPF\28.Trigger\obj\x86\Debug\28.Trigger.exe
+E:\1 program\2Graduate Courses\lab\WPF\28.Trigger\obj\x86\Debug\28.Trigger.pdb
